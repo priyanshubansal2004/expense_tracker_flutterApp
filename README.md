@@ -1,16 +1,35 @@
-# expense_tracker
+EXPENSE TRACKER FLUTTER APP
+----------------------------
 
-A new Flutter project.
+A simple expense tracker built with Flutter to manage and analyze daily expenses.
 
-## Getting Started
+INSTALLATION
+------------
 
-This project is a starting point for a Flutter application.
+Prerequisites:
+- Install Flutter (Make sure "flutter doctor" runs without issues)
+- Install Git
 
-A few resources to get you started if this is your first Flutter project:
+Steps to Install and Run:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository:
+   git clone https://github.com/priyanshubansal2004/expense_tracker_flutterApp.git
+   cd expense_tracker_flutterApp
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Get dependencies:
+   flutter pub get
+
+3. Run the app:
+   flutter run
+
+RUNNING ON AN EMULATOR OR PHYSICAL DEVICE
+-----------------------------------------
+
+- Ensure a device/emulator is connected.
+- Use "flutter devices" to check available devices.
+- Run "flutter run" to start the app.
+
+CONTRIBUTIONS
+-------------
+
+Feel free to fork this repository and submit pull requests.
